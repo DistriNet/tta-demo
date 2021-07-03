@@ -1,0 +1,28 @@
+.navbar {
+	background-color: #1a3d75;
+	color: #fff;
+	padding-bottom: 25px;
+	display: block !important;
+	padding-top: 30px;
+}
+
+.navbar a {
+	color: #fff;
+	text-decoration: none;
+}
+
+main, html, body {
+	background-color: #cbd5f2;
+}
+
+#document-input {
+	background-color: #87afe0;
+}
+
+.search-entry {
+	background-color: #fff;
+}
+
+footer {
+	background-color: #b5b8bd;
+}
